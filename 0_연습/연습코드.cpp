@@ -10,13 +10,13 @@ int main(void) {
 	success = 0; n = EDGE;
 	visit(Start);
 	if (success == 0)
-		printf("해가 없음\n");
+		printf("해가 없음");
 	return 0;
 }
 void visit(int i) {
 	int j; path[n] = i;
 	if (n == 0 && i == Start) {
-		printf("해 %d:", ++success);
+		printf("해aaa %d:", ++success);
 		for (i = 0; i <= EDGE; i++)
 			printf("%d", path[i]);
 		printf("\n");
