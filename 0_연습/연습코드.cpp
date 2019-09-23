@@ -10,7 +10,7 @@ int main(void) {
 	success = 0; n = EDGE;
 	visit(Start);
 	if (success == 0)
-		printf("해가 없음");
+		printf("해가 aaa없음");
 	return 0;
 }
 void visit(int i) {
