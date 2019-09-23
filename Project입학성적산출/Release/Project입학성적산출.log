@@ -1,0 +1,98 @@
+﻿  입학성적산출.cpp
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(13,18): warning C4838:  'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(13,24): warning C4838:  'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(43,18): error C3861:  'clreol': 식별자를 찾을 수 없습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(44,24): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(44,9): warning C4473:  'scanf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(44,9): message :  자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(44,9): message :  누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(45,19): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(49,18): error C3861:  'clreol': 식별자를 찾을 수 없습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(50,24): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(50,9): warning C4473:  'scanf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(50,9): message :  자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(50,9): message :  누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(51,19): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(51,44): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(55,18): error C3861:  'clreol': 식별자를 찾을 수 없습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(56,24): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(56,9): warning C4473:  'scanf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(56,9): message :  자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(56,9): message :  누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(57,19): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(57,44): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(61,18): error C3861:  'clreol': 식별자를 찾을 수 없습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(62,24): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(62,9): warning C4473:  'scanf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(62,9): message :  자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(62,9): message :  누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(63,19): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(63,44): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(67,18): error C3861:  'clreol': 식별자를 찾을 수 없습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(68,24): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(68,9): warning C4473:  'scanf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(68,9): message :  자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(68,9): message :  누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(69,19): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(69,44): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(72,17): error C3861:  'clreol': 식별자를 찾을 수 없습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(73,17): error C3861:  'clreol': 식별자를 찾을 수 없습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(74,17): error C3861:  'clreol': 식별자를 찾을 수 없습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(75,17): error C3861:  'clreol': 식별자를 찾을 수 없습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(76,18): error C3861:  'clreol': 식별자를 찾을 수 없습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(81,11): error C2059:  구문 오류: '.'
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(82,5): error C2059:  구문 오류: '['
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(84,2): error C2181:  if와 짝을 이루지 않는 잘못된 else문입니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(85,12): error C2059:  구문 오류: '.'
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(87,11): error C2059:  구문 오류: '.'
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(94,2): error C3861:  'clrscr': 식별자를 찾을 수 없습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(101,35): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(101,48): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(101,63): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(101,78): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(101,10): warning C4473:  'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(101,10): message :  자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 0개가 제공되었습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(101,10): message :  누락된 variadic 인수 1이(가) 서식 문자열 '%3d'에 필요합니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(108,7): error C2059:  구문 오류: '['
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(109,4): error C2143:  구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(110,16): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(111,17): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(111,8): error C2429:  언어 기능 '구조적 바인딩'에 컴파일러 플래그 '/std:c++17'이(가) 필요합니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(112,8): error C2429:  언어 기능 '구조적 바인딩'에 컴파일러 플래그 '/std:c++17'이(가) 필요합니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(120,44): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(120,57): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(120,72): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(120,87): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(120,102): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(120,113): error C2275:  'IN': 이 형식을 식으로 잘못 사용했습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(27): message :  'IN' 선언을 참조하십시오.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(120,10): warning C4473:  'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(120,10): message :  자리 표시자 및 해당 매개 변수에는 variadic 인수가 6개 필요하지만 0개가 제공되었습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(120,10): message :  누락된 variadic 인수 1이(가) 서식 문자열 '%5d'에 필요합니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(127,2): error C3861:  'clrscr': 식별자를 찾을 수 없습니다.
+C:\Users\김동균\source\repos\Study_C\Project입학성적산출\입학성적산출.cpp(144,7): error C2065:  'cout': 선언되지 않은 식별자입니다.

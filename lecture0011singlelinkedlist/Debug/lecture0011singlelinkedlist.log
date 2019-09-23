@@ -1,0 +1,4 @@
+﻿  lecture0011singlelinkedlist.c
+C:\Users\김동균\source\repos\Study_C\lecture0011singlelinkedlist\lecture0011singlelinkedlist.c(15,22): warning C4013:  'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\김동균\source\repos\Study_C\lecture0011singlelinkedlist\lecture0011singlelinkedlist.c(28,6): warning C4013:  'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  lecture0011singlelinkedlist.vcxproj -> C:\Users\김동균\source\repos\Study_C\Debug\lecture0011singlelinkedlist.exe

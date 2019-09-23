@@ -1,0 +1,8 @@
+﻿  lecture0203클래스성적표관리생성자소멸자.cpp
+C:\Users\김동균\source\repos\Study_C\lecture203클래스성적표관리\lecture0203클래스성적표관리생성자소멸자.cpp(74,13): warning C4326:  'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  코드를 생성하고 있습니다.
+  5 of 133 functions ( 3.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  lecture203클래스성적표관리.vcxproj -> C:\Users\김동균\source\repos\Study_C\Release\lecture0203클래스성적표관리.exe

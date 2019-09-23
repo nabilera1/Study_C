@@ -1,0 +1,7 @@
+﻿  lecture0206Employee.cpp
+C:\Users\김동균\source\repos\Study_C\lecture0206Employee\lecture0206Employee.cpp(90,42): error C2664:  'Employee::Employee(const Employee &)': 인수 1을(를) 'const char [6]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\김동균\source\repos\Study_C\lecture0206Employee\lecture0206Employee.cpp(90,15): message :  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\김동균\source\repos\Study_C\lecture0206Employee\lecture0206Employee.cpp(93,35): error C2664:  'Regular::Regular(const Regular &)': 인수 1을(를) 'const char [4]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\김동균\source\repos\Study_C\lecture0206Employee\lecture0206Employee.cpp(93,14): message :  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\김동균\source\repos\Study_C\lecture0206Employee\lecture0206Employee.cpp(96,39): error C2664:  'Temporary::Temporary(const Temporary &)': 인수 1을(를) 'const char [4]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\김동균\source\repos\Study_C\lecture0206Employee\lecture0206Employee.cpp(96,16): message :  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).

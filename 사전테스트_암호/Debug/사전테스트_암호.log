@@ -1,0 +1,4 @@
+﻿  사전테스트_암호.c
+C:\Users\김동균\source\repos\Study_C\사전테스트_암호\사전테스트_암호.c(10,27): warning C4047:  '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\김동균\source\repos\Study_C\사전테스트_암호\사전테스트_암호.c(13,27): warning C4047:  '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  사전테스트_암호.vcxproj -> C:\Users\김동균\source\repos\Study_C\Debug\사전테스트_암호.exe

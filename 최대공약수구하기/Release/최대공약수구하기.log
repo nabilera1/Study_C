@@ -1,0 +1,8 @@
+﻿  최대공약수유클리드호제법.c
+  코드를 생성하고 있습니다.
+  2 of 8 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+C:\Users\김동균\source\repos\Study_C\최대공약수구하기\최대공약수유클리드호제법.c(20): warning C4715: 'gcd': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  코드를 생성했습니다.
+  최대공약수구하기.vcxproj -> C:\Users\김동균\source\repos\Study_C\Release\최대공약수구하기.exe

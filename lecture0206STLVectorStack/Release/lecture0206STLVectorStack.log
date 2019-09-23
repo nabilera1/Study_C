@@ -1,0 +1,8 @@
+﻿  lecture0206STLVectorStack.cpp
+C:\Users\김동균\source\repos\Study_C\lecture0206STLVectorStack\lecture0206STLVectorStack.cpp(39,22): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  2 of 66 functions ( 3.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  lecture0206STLVectorStack.vcxproj -> C:\Users\김동균\source\repos\Study_C\Release\lecture0206STLVectorStack.exe

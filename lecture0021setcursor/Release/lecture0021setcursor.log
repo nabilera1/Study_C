@@ -1,0 +1,11 @@
+﻿  lecture0021setcursor.cpp
+C:\Users\김동균\source\repos\Study_C\lecture0021setcursor\lecture0021setcursor.cpp(6,13): error C2873:  'System': using 선언에서 기호를 사용할 수 없습니다.
+C:\Users\김동균\source\repos\Study_C\lecture0021setcursor\lecture0021setcursor.cpp(10,12): error C2062:  예기치 않은 'int' 형식입니다.
+C:\Users\김동균\source\repos\Study_C\lecture0021setcursor\lecture0021setcursor.cpp(10,30): error C2238:  ';' 앞에 예기치 않은 토큰이 있습니다.
+C:\Users\김동균\source\repos\Study_C\lecture0021setcursor\lecture0021setcursor.cpp(11,12): error C2062:  예기치 않은 'int' 형식입니다.
+C:\Users\김동균\source\repos\Study_C\lecture0021setcursor\lecture0021setcursor.cpp(11,30): error C2238:  ';' 앞에 예기치 않은 토큰이 있습니다.
+C:\Users\김동균\source\repos\Study_C\lecture0021setcursor\lecture0021setcursor.cpp(13,12): error C2062:  예기치 않은 'void' 형식입니다.
+C:\Users\김동균\source\repos\Study_C\lecture0021setcursor\lecture0021setcursor.cpp(14,2): error C2334:  '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Users\김동균\source\repos\Study_C\lecture0021setcursor\lecture0021setcursor.cpp(27,9): error C2062:  예기치 않은 'void' 형식입니다.
+C:\Users\김동균\source\repos\Study_C\lecture0021setcursor\lecture0021setcursor.cpp(28,2): error C2334:  '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Users\김동균\source\repos\Study_C\lecture0021setcursor\lecture0021setcursor.cpp(74,1): error C1004:  예기치 않은 파일의 끝이 나타났습니다.
