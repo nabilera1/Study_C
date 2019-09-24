@@ -9,7 +9,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lecture0002", "lecture0002\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lecture0003", "lecture0003\lecture0003.vcxproj", "{38CF3083-D63A-4E59-8F2B-0EC118393CB3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lecture0004", "lecture0004\lecture0004.vcxproj", "{56D66102-5D45-43B8-9180-6818B4CB7032}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lecture0004포인터거꾸로", "lecture0004\lecture0004.vcxproj", "{56D66102-5D45-43B8-9180-6818B4CB7032}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lecture0005", "lecture0005\lecture0005.vcxproj", "{551AB631-77FE-4D1D-B194-9554E6C99F30}"
 EndProject
@@ -176,6 +176,13 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "시험코드따라기가0002반복패턴", "시험코드따라기가0002반복패턴\시험코드따라기가0002반복패턴.vcxproj", "{A1AD2336-EDC3-4654-9C88-A7463B0AFFF6}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lecture0000기초1", "lecture0000기초1\lecture0000기초1.vcxproj", "{260EAAA7-6374-4B78-9C6D-8AF35439B6DD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lecture0000기초2", "lecture0000기초2\lecture0000기초2.vcxproj", "{EAC80903-8232-4A00-A93E-34E0BA6E7AB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{40C02586-86A4-469E-8BD1-6DB754635C51}"
+	ProjectSection(SolutionItems) = preProject
+		읽어보기.txt = 읽어보기.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -997,6 +1004,16 @@ Global
 		{260EAAA7-6374-4B78-9C6D-8AF35439B6DD}.Release|x64.Build.0 = Release|x64
 		{260EAAA7-6374-4B78-9C6D-8AF35439B6DD}.Release|x86.ActiveCfg = Release|Win32
 		{260EAAA7-6374-4B78-9C6D-8AF35439B6DD}.Release|x86.Build.0 = Release|Win32
+		{EAC80903-8232-4A00-A93E-34E0BA6E7AB0}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{EAC80903-8232-4A00-A93E-34E0BA6E7AB0}.Debug|x64.ActiveCfg = Debug|x64
+		{EAC80903-8232-4A00-A93E-34E0BA6E7AB0}.Debug|x64.Build.0 = Debug|x64
+		{EAC80903-8232-4A00-A93E-34E0BA6E7AB0}.Debug|x86.ActiveCfg = Debug|Win32
+		{EAC80903-8232-4A00-A93E-34E0BA6E7AB0}.Debug|x86.Build.0 = Debug|Win32
+		{EAC80903-8232-4A00-A93E-34E0BA6E7AB0}.Release|Any CPU.ActiveCfg = Release|Win32
+		{EAC80903-8232-4A00-A93E-34E0BA6E7AB0}.Release|x64.ActiveCfg = Release|x64
+		{EAC80903-8232-4A00-A93E-34E0BA6E7AB0}.Release|x64.Build.0 = Release|x64
+		{EAC80903-8232-4A00-A93E-34E0BA6E7AB0}.Release|x86.ActiveCfg = Release|Win32
+		{EAC80903-8232-4A00-A93E-34E0BA6E7AB0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1083,6 +1100,7 @@ Global
 		{07ED4768-A38F-42E7-8817-D4B68A5390EB} = {76FE5929-189B-4802-BFB6-68471542C634}
 		{A1AD2336-EDC3-4654-9C88-A7463B0AFFF6} = {76FE5929-189B-4802-BFB6-68471542C634}
 		{260EAAA7-6374-4B78-9C6D-8AF35439B6DD} = {CAAECC3F-22C7-4E04-A270-38BDEE5F7A89}
+		{EAC80903-8232-4A00-A93E-34E0BA6E7AB0} = {CAAECC3F-22C7-4E04-A270-38BDEE5F7A89}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2F41596F-1D2C-409A-A79C-594079EB7862}
